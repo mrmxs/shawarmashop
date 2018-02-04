@@ -1,14 +1,12 @@
 package com.github.mrmxs.shawarmashop;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
-import org.springframework.context.annotation.ComponentScan;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@ComponentScan
-@EnableAutoConfiguration
+@SpringBootApplication
 public class Application {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Throwable {
         SpringApplication.run(Application.class, args);
     }
 }
