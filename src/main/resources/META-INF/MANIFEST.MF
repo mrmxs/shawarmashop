@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: shawarma-shop
+Implementation-Version: 1.5.6.RELEASE
+Archiver-Version: Plexus Archiver
+Built-By: mrmxs
+Implementation-Vendor-Id: com.github.mrmxs
+Spring-Boot-Version: 1.5.6.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.github.mrmxs.shawarmashop.Application
+Start-Class: com.github.mrmxs.shawarmashop.Application
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/com/github/mrmxs/
