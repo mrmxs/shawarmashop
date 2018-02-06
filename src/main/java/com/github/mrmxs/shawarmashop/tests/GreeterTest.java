@@ -1,4 +1,4 @@
-package com.github.mrmxs.shawarmashop;
+package com.github.mrmxs.shawarmashop.tests;
 
 public class GreeterTest {
 //    private Greeter greeter = new Greeter();

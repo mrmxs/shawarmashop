@@ -1,4 +1,4 @@
-package com.github.mrmxs.shawarmashop;
+package com.github.mrmxs.shawarmashop.configs;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
