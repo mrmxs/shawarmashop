@@ -1,10 +1,10 @@
 package com.github.mrmxs.shawarmashop.resources;
 
-public class Card {
+public class Cart {
     private final long id;
     private final Menu[] content;
 
-    public Card(long id, Menu[] content) {
+    public Cart(long id, Menu[] content) {
         this.id = id;
         this.content = content;
     }
