@@ -1,4 +1,4 @@
-package com.github.mrmxs.shawarmashop.configs;
+package com.github.mrmxs.shawarmashop.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

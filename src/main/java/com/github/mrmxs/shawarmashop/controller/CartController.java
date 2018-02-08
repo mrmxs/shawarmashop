@@ -1,7 +1,7 @@
-package com.github.mrmxs.shawarmashop.controllers;
+package com.github.mrmxs.shawarmashop.controller;
 
-import com.github.mrmxs.shawarmashop.resources.Cart;
-import com.github.mrmxs.shawarmashop.resources.Menu;
+import com.github.mrmxs.shawarmashop.source.Cart;
+import com.github.mrmxs.shawarmashop.source.Menu;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

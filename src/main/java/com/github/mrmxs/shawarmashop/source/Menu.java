@@ -1,4 +1,4 @@
-package com.github.mrmxs.shawarmashop.resources;
+package com.github.mrmxs.shawarmashop.source;
 
 public enum Menu {
     Traditional,
